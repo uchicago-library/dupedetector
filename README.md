@@ -1,6 +1,4 @@
-# dupedetector
-
-v0.0.1
+# dupedetector [![Version](https://img.shields.io/badge/Version-0.0.1-blue.svg)](https://github.com/bnbalsamo/dupedetector/releases)
 
 [![Build Status](https://travis-ci.org/bnbalsamo/dupedetector.svg?branch=master)](https://travis-ci.org/bnbalsamo/dupedetector) [![Coverage Status](https://coveralls.io/repos/github/bnbalsamo/dupedetector/badge.svg?branch=master)](https://coveralls.io/github/bnbalsamo/dupedetector?branch=master) [![Documentation Status](https://readthedocs.org/projects/dupedetector/badge/?version=latest)](http://dupedetector.readthedocs.io/en/latest/?badge=latest)
 
