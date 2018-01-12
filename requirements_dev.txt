@@ -9,4 +9,4 @@ autopep8
 check-manifest
 sphinx
 sphinx_rtd_theme
-sphinx-argparse
+sphinxcontrib-programoutput
