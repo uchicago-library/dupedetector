@@ -26,7 +26,7 @@ def get_parser():
     )
     parser.add_argument(
         "-s", "--samplesize", type=int, default=1000000,
-        help="How many bytes of the files to sample from the begginning, middle, and end. " +
+        help="How many bytes of the files to sample from the beginning, middle, and end. " +
         "Files less than twice as big as this value will be considered 'small', and " +
         "will be hashed in their entirety. Defaults to 1MB"
     )
