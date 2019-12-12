@@ -45,5 +45,8 @@ optional arguments:
                         Defaults to stdout.
 ```
 
+# See Also
+[fdupes](https://linux.die.net/man/1/fdupes)
+
 # Author
 Brian Balsamo <brian@brianbalsamo.com>
